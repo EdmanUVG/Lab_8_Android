@@ -4,4 +4,8 @@
     <string name="text_autor">Autor</string>
     <string name="text_puntos_minimos">Puntos minimos</string>
     <string name="hacker_news_text">Hacker News</string>
+
+
+    <string name="api_key">843adb41cb5efeb2f1a01d7b756d6468</string>
+
 </resources>
